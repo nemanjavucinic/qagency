@@ -1,9 +1,4 @@
-<?php
-/*
-    Template Name: Default
-*/
-
-?>
+<?php ?>
 
 <!DOCTYPE html>
 <html>

@@ -1,9 +1,4 @@
-<?php
-/*
-Template Name: Movie Single
-*/
-
-?>
+<?php ?>
 
 <!DOCTYPE html>
 <html>
