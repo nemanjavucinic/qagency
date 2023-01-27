@@ -1,0 +1,40 @@
+/*
+    Theme Name: Q Agency
+    Author: Nemanja Vucinic
+*/
+
+body{
+    margin: 0;
+}
+
+.movie-wrapper-single .movie-title{
+    background-color: #d4d1d1;
+    margin: 0;
+    padding: 20px;
+}
+
+.movie-wrapper-single .movie-content{
+    padding: 20px;
+}
+
+.movie-wrapper{
+    padding: 20px;
+}
+
+.movie-wrapper:nth-child(2n+1){
+    border-bottom: 1px solid #b8abab;
+}
+
+blockquote.q-favorite-quote:before{
+    content: '"';
+    color: #a32222;
+    font-size: 35px;
+    position: absolute;
+    top: -7px;
+    left: -20px;
+}
+blockquote.q-favorite-quote{
+    position: relative;
+    font-weight: 700;
+    font-size: 20px;
+}
